@@ -62,9 +62,6 @@
 
 ## 🔥 What I'm Working On
 - 🚀 **Exploring Golang and Kubernetes** to expand backend expertise.
-- 📊 **Developing a Trading Bot** for analyzing the Brazilian stock market.
-- 🌍 **Building an AI-powered Name Generator** for Brazilian users.
-
 ---
 
 ## 💬 Let's Connect!
