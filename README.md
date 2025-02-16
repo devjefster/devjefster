@@ -1,70 +1,83 @@
 # Hi there! 👋 I'm Jefster Farlei Fernandes Caixeta Júnior
 
-🚀 **Software Engineer | Tech Specialist | Backend Developer**
+📍 Anápolis, GO, Brazil  
+📞 +55 62 99111-5292  
+✉️ jefsterfarlei@gmail.com  
+🔗 [LinkedIn](#) | 💻 [GitHub](#) | ✍️ [Medium](#)
 
-📍 Anápolis, GO - Brazil  
-📧 jefsterfarlei@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jefster-farlei/)  
+## 🚀 About Me
+Results-driven **Software Engineer** with **9+ years of experience** in designing scalable backend solutions using **Java (8-21), Spring Boot, and Golang**. My expertise includes **RESTful & GraphQL APIs, microservices architecture, and cloud computing (AWS, Azure)**. I have a strong background in **performance tuning, distributed systems, and high-availability architectures**.
 
----
+I am passionate about **mentoring teams, leading refactoring initiatives, and optimizing system performance**. I hold **Azure Fundamentals (AZ-900)** and **Azure Data Fundamentals (DP-900)** certifications.
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Technical Skills
 
-- **Languages:** Java (8-21), Go, Python, JavaScript, TypeScript
-- **Backend:** Spring Boot, Quarkus, Hibernate, JPA
-- **Frontend:** React.js, Vue.js, Angular (6+)
-- **Databases:** PostgreSQL, MySQL, CosmosDB, Redis, DynamoDB, SQL Server
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Azure DevOps, Jenkins)
-- **Security:** OAuth2, JWT, OpenID, Auth0, OKTA
-- **APIs:** REST, GraphQL, WebSockets, STOMP, Feign
-- **Testing & Monitoring:** JUnit, Mockito, SonarQube, Prometheus, Grafana, JMeter
-- **Messaging & Caching:** Kafka, RabbitMQ, Caffeine Cache
+### 🔹 Programming Languages & Frameworks
+- **Java (8-21)**, Spring Boot, Hibernate
+- **Golang** (Gin, GORM, Gorilla Mux)
+- **Node.js, Python**
+
+### ☁️ Cloud & DevOps
+- **AWS** (EC2, S3, RDS)
+- **Azure** (CosmosDB, Synapse, DevOps)
+- **Kubernetes, Docker**
+
+### 💾 Databases & Storage
+- **PostgreSQL, MySQL, Redis, SQL Server, DynamoDB, CosmosDB**
+
+### 🔗 APIs & Protocols
+- **REST, GraphQL, WebSockets, OAuth2, JWT**
+
+### ✅ Testing & CI/CD
+- **JUnit, Mockito, TestContainers, SonarQube**
+- **Jenkins, GitHub Actions**
+
+### 📊 Monitoring & Logging
+- **Prometheus, Grafana, Kibana, Azure Insights**
 
 ---
 
 ## 💼 Professional Experience
 
-### **Software Engineer | Code17 Tek (06/2023 - Present)**
-- Leading high-priority tasks and backend projects.
-- Developed and optimized REST & GraphQL APIs.
-- Integrated CosmosDB, Redis, and Azure Synapse for scalable data solutions.
-- Used Java Flight Recorder and Azure Application Insights for performance tuning.
-- Mentoring junior developers and evaluating new technologies.
+### **Software Engineer | Code17 Tek | 06/2023 - Present**
+- Led backend development as a **Tech Specialist**, driving high-priority features & bug fixes.
+- Designed & optimized **REST/GraphQL APIs**, improving system performance by **35%**.
+- Developed high-performance APIs handling **1M+ daily transactions**, integrating **CosmosDB, Redis, and SQL Server**.
+- Architected & deployed **Golang APIs**, leveraging **Gorilla Mux, Gin, and GORM** for cloud-native microservices.
+- Refactored core services, **reducing technical debt by 50%** and improving maintainability.
+- Enhanced system monitoring, implementing **Java Flight Recorder, JMeter, and Azure Insights**.
 
-### **Software Engineer | Novacomp (05/2022 - 06/2023)**
-- Built scalable REST APIs and event-driven systems using Kafka.
-- Developed user notification systems with opt-in/opt-out features.
-- Monitored and optimized system performance with Prometheus, Grafana, and Loki.
+### **Software Engineer | Novacomp | 05/2022 - 06/2023**
+- Developed **REST APIs**, reducing backend response times by **30%**.
+- Reduced API error rates and improved **third-party integration efficiency**.
+- Built a **Kafka-based notification service**, improving message delivery reliability to **99.9%**.
+- Optimized data models, **cutting query execution time by 40%** with indexing improvements.
+- Strengthened system observability using **Prometheus, Grafana, and Loki**.
 
-### **Software Engineer | Midway (05/2021 - 05/2022)**
-- Designed APIs for Open Banking integration in Brazil.
-- Ensured scalability and compliance with regulatory requirements.
-- Worked with OAuth2, OpenID, and secure authentication systems.
-
-... *(More roles available in my [LinkedIn](https://www.linkedin.com/in/jefster-farlei/) profile!)*
-
----
-
-## 🎓 Education
-- **Graduate Certificate in Solutions Architecture** - Pontifical Catholic University of Minas Gerais (2022)
-- **Associate Degree in Software Analysis and Development** - University Center Maurício Nassau (2020)
+### **Software Engineer | Midway | 05/2021 - 05/2022**
+- Designed API endpoints, improving **data retrieval speeds by 40%**.
+- Developed high-performance **data models**, handling **10M+ daily transactions**.
 
 ---
 
-## 📜 Certifications
-- **AZ-900 - Microsoft Azure Fundamentals**
-- **DP-900 - Microsoft Azure Data Fundamentals**
-- **Cybersecurity Essentials - Linux Foundation**
-- **OWASP® Top 10 Security Threats - Linux Foundation**
-- **Scrum Foundation Professional Certificate (SFPC) - CertiProf**
+## 🎓 Education & Certifications
+- **Graduate Certificate in Solutions Architecture** – PUC Minas, 2022
+- **Associate Degree in Software Analysis & Development** – Maurício Nassau University, 2020
+
+### 📜 Certifications:
+- **AZ-900** (Azure Fundamentals)
+- **DP-900** (Azure Data Fundamentals)
+- **SFPC** (Scrum Foundation)
+- **DEPC** (DevOps Essentials)
+- **OWASP Top 10 Security**
 
 ---
 
-## 🔥 What I'm Working On
-- 🚀 **Exploring Golang and Kubernetes** to expand backend expertise.
+## 🌎 Languages
+- **Portuguese** – Native
+- **English** – Advanced
+- **Spanish** – Fluent
+
 ---
 
-## 💬 Let's Connect!
-📧 **Email:** jefsterfarlei@gmail.com  
-💼 **LinkedIn:** [jefster-farlei](https://www.linkedin.com/in/jefster-farlei/)  
-🚀 **GitHub:** [JefsterCaixeta](https://github.com/JefsterCaixeta)
+💡 **Let's connect and build something amazing together!** 🚀
