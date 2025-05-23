@@ -8,7 +8,7 @@
 ## 🚀 About Me
 Results-driven **Software Engineer** with **9+ years of experience** in designing scalable backend solutions using **Java (8-21), Spring Boot, and Golang**. My expertise includes **RESTful & GraphQL APIs, microservices architecture, and cloud computing (AWS, Azure)**. I have a strong background in **performance tuning, distributed systems, and high-availability architectures**.
 
-I am passionate about **mentoring teams, leading refactoring initiatives, and optimizing system performance**. I hold **Azure Fundamentals (AZ-900)** and **Azure Data Fundamentals (DP-900)** certifications.
+Holds multiple industry-recognized certifications, including **AWS Certified Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Azure Fundamentals (AZ-900), and Azure Data Fundamentals (DP-900)**.
 
 ## 🛠️ Technical Skills
 
